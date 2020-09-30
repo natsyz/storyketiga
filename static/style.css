@@ -275,6 +275,11 @@ td {
         text-align: center;
     }
 
+    #nav li {
+        padding: 15px 20px 15px 0;
+        font-size: 14px;
+    }
+
     #cover{
         background-image: url("texture.gif");
         text-align: center;
