@@ -285,9 +285,8 @@ td {
         text-align: center;
     }
 
-    #cover h1 {
+    #cover h1, #cover2 h1 {
         font-size: 32pt;
-
     }
 
     #about, #resume, #portfolio {
